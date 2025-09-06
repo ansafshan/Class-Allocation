@@ -72,9 +72,9 @@ Make sure you have a local server environment like XAMPP installed and running.
 
 Clone the Repository:
 
-git clone [https://github.com/your-username/ExamNexus.git](https://github.com/your-username/ExamNexus.git)
+git clone https://github.com/ansafshan/Class-Allocation
 
-Place the cloned folder inside your htdocs directory (e.g., C:\xampp\htdocs\ExamNexus).
+Place the cloned folder inside your htdocs directory (e.g., C:\xampp\htdocs\classalloc).
 
 Database Setup:
 
@@ -90,7 +90,7 @@ The database connection settings are located in db.php. The default settings (us
 
 Run the Application:
 
-Open your web browser and navigate to: http://localhost/ExamNexus/
+Open your web browser and navigate to: http://localhost/class_alloc/
 
 🗃️ Database Schema
 The database consists of 7 core tables:
