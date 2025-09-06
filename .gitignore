@@ -1,0 +1,8 @@
+
+IDE and editor folders
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.zip
+*.bak
